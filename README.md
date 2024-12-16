@@ -1,4 +1,4 @@
-# DiffImp
+# DiffImputer
 
 This is the code for paper:
 > DiffImputer: Multivariate Dependency-aware Diffusion Network for Spatiotemporal Imputation
